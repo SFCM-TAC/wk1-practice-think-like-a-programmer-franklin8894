@@ -1,1 +1,22 @@
-/* TODO: Add your styles here */
+<!DOCTYPE html>
+<html>
+<style>
+body {
+    background-color: yellow;
+}
+
+h1 {
+    background-color: yellow;
+    color: blue;
+    font-family: verdana;
+    text-align: center;
+}
+
+div {
+    background-color: lightblue;
+    color: brown;
+    font-family: arial;
+    font-size: 15px;
+}
+</style>
+</body>
